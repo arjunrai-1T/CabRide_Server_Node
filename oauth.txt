@@ -1,0 +1,2 @@
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+https://blog.logrocket.com/implement-oauth-2-0-node-js/
